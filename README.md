@@ -124,6 +124,7 @@ For example:
 - In **Route 53**, update your `A` record to point to the CloudFront distribution (alias).
 
 
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/f45eb467-1212-4f63-b037-f19ed7b34efd" />
 
 
 -
